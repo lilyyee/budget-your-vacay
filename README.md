@@ -8,4 +8,6 @@ Once the user presses the "calculate budget" button, 3 alerts pop-up asking...
 2. What are your accommodation costs?
 3. How many days does your trip last?
 
-After answering these 3 questions, the user can see how much they can spend each day on food and fun.  
+After answering these 3 questions, the user can see how much they can spend each day on food and fun. 
+
+https://lilyyee.github.io/budget-your-vacay
